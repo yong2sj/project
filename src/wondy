@@ -1,0 +1,10 @@
+package wondy;
+
+public class print {
+
+	public static void main(String[] args) {
+		System.out.println("There we were, now here we are");
+
+	}
+
+}
