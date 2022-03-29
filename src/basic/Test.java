@@ -5,6 +5,9 @@ public class Test {
 		int a = 1024;
 		System.out.println(" a "+a);
 		
+		byte b = (byte)a;
+		System.out.println("a = "+b);
+		
 	}
 	
 }
